@@ -1,12 +1,12 @@
 # Site settings
 title: Abdalrahman | SWE
-description: Software Engineer about page
+description: Software Engineer, Problem Solving, Open-Source Enthusiast, Blogging, Videos, etc.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Abdalrahman Shaban
-user_description: Software Engineer, Problem Solving, Open-Source Enthusiast, Blogging, Videos, etc.
+user_description: 3rd year Electrical Engineering student, Computers and Control Systems dep. Software Development, Problem Solving, Open-Source Enthusiast, Blogging, Videos, etc.
 user_title: Software Engineer
 email: abdalrahmanshaban52@gmail.com
 #twitter_username: lorem_ipsum
